@@ -1,5 +1,7 @@
 html {
   font: normal 100%/1.5 Georgia, serif;
+  line-height:1.5;
+
 }
 
   body {
@@ -14,9 +16,9 @@ header {
 h1 {
   font-family: 'Sigmar One', sans-serif;
   color: #cc1465;
-  margin: 0;
+  margin-left: 1rem;
   text-align: center;
-  line-height: 3rem;
+  line-height: 1rem;
   font-size: 48px;
 }
 
@@ -26,11 +28,11 @@ h2 {
   width: 50%;
   padding:.2em;
   font-size: 28px;
+  margin-left: 2rem;
 }
 
 h3 {
 background-color: #ffe500;
-height: 10;
   font-family: 'Georgia',serif;
   color: #000;
   margin: 0;
