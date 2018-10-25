@@ -1,0 +1,87 @@
+html {
+  font: normal 100%/1.5 Georgia, serif;
+}
+
+  body {
+    margin:0;
+  }
+
+header {
+  background-color: #ffe500;
+  padding: .2em .5em
+}
+
+h1 {
+  font-family: 'Sigmar One', sans-serif;
+  color: #cc1465;
+  margin: 0;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'Sigmar One', sans-serif;
+  color: #cc1465;
+  width: 50%;
+  padding:.2em;
+  font-size: 28px;
+}
+
+h3 {
+background-color: #ffe500;
+height: 10;
+  font-family: 'Georgia',serif;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav li {
+  display:inline-block;
+}
+
+.nav a {
+  color: #fff;
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: #b2a212;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
+}
+
+img {
+  display: block;
+  width: 50%;
+}
+
+main {
+  background-color: #fff;
+}
+
+.nav .current {
+  background-color: #cc1465;
+}
+
+p {
+  padding: .5em;
+  width: 50%;
+}
+
+figcaption {
+  width: 50%;
+
+}
